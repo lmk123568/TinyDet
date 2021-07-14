@@ -8,7 +8,7 @@
 
 ## 模型库
 
-![model_zoo](demo\resouces\model_zoo.png)
+![model_zoo](demo/resouces/model_zoo.png)
 
 ## 已支持
 
